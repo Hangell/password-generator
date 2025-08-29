@@ -3,6 +3,8 @@
 Gerador de senhas simples e bonito, feito com React Native (Expo).
 Permite escolher o tamanho (4–32), copia para a área de transferência.
 
+![Password Generator](https://raw.githubusercontent.com/Hangell/password-generator/refs/heads/main/assets/img/celular.png)
+
 ## ✨ Funcionalidades
 
 * Geração de senhas fortes com pelo menos:
