@@ -16,6 +16,16 @@
       "supportsTablet": true
     },
     "android": {
+      "fonts": [
+        {
+          "fontFamily": "Glitch",
+          "fontDefinitions": [
+            {
+              "path": "./assets/fonts/Glitch.otf"
+            }
+          ]
+        }
+      ],
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"

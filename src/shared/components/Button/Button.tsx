@@ -71,8 +71,8 @@ export default function Button({
             ) : (
                 <Text
                     style={{
+                        fontFamily: "Glitch",
                         fontSize: s.fs,
-                        fontWeight: '600',
                         color:
                             variant === 'primary'
                                 ? WHITE
